@@ -12,7 +12,7 @@
   {
     "id": 3,
     "region": "Ohio",
-    "available": false
+    "available": true
   },
   {
     "id": 4,
@@ -42,7 +42,7 @@
   {
     "id": 9,
     "region": "Texas",
-    "available": false
+    "available": true
   },
   {
     "id": 10,
@@ -52,12 +52,12 @@
   {
     "id": 11,
     "region": "New York",
-    "available": true
+    "available": false
   },
   {
     "id": 12,
     "region": "New York",
-    "available": true
+    "available": false
   },
   {
     "id": 13,
@@ -87,22 +87,22 @@
   {
     "id": 18,
     "region": "Texas",
-    "available": true
+    "available": false
   },
   {
     "id": 19,
     "region": "Illinois",
-    "available": true
+    "available": false
   },
   {
     "id": 20,
     "region": "Georgia",
-    "available": true
+    "available": false
   },
   {
     "id": 21,
     "region": "Pennsylvania",
-    "available": true
+    "available": false
   },
   {
     "id": 22,
@@ -117,7 +117,7 @@
   {
     "id": 24,
     "region": "California",
-    "available": true
+    "available": false
   },
   {
     "id": 25,
@@ -172,12 +172,12 @@
   {
     "id": 35,
     "region": "Texas",
-    "available": false
+    "available": true
   },
   {
     "id": 36,
     "region": "Pennsylvania",
-    "available": true
+    "available": false
   },
   {
     "id": 37,
@@ -207,7 +207,7 @@
   {
     "id": 42,
     "region": "Pennsylvania",
-    "available": true
+    "available": false
   },
   {
     "id": 43,
@@ -222,7 +222,7 @@
   {
     "id": 45,
     "region": "Georgia",
-    "available": true
+    "available": false
   },
   {
     "id": 46,
@@ -257,12 +257,12 @@
   {
     "id": 52,
     "region": "Ohio",
-    "available": true
+    "available": false
   },
   {
     "id": 53,
     "region": "New York",
-    "available": false
+    "available": true
   },
   {
     "id": 54,
@@ -292,7 +292,7 @@
   {
     "id": 59,
     "region": "Florida",
-    "available": true
+    "available": false
   },
   {
     "id": 60,
@@ -417,7 +417,7 @@
   {
     "id": 84,
     "region": "New York",
-    "available": false
+    "available": true
   },
   {
     "id": 85,
@@ -437,7 +437,7 @@
   {
     "id": 88,
     "region": "California",
-    "available": false
+    "available": true
   },
   {
     "id": 89,
@@ -492,7 +492,7 @@
   {
     "id": 99,
     "region": "Ohio",
-    "available": true
+    "available": false
   },
   {
     "id": 100,
