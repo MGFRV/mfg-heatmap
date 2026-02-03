@@ -7,7 +7,7 @@
   {
     "id": 2,
     "region": "Georgia",
-    "available": false
+    "available": true
   },
   {
     "id": 3,
@@ -72,7 +72,7 @@
   {
     "id": 15,
     "region": "California",
-    "available": false
+    "available": true
   },
   {
     "id": 16,
@@ -127,17 +127,17 @@
   {
     "id": 26,
     "region": "Ohio",
-    "available": true
+    "available": false
   },
   {
     "id": 27,
     "region": "Illinois",
-    "available": false
+    "available": true
   },
   {
     "id": 28,
     "region": "Texas",
-    "available": false
+    "available": true
   },
   {
     "id": 29,
@@ -152,7 +152,7 @@
   {
     "id": 31,
     "region": "Ohio",
-    "available": true
+    "available": false
   },
   {
     "id": 32,
@@ -192,7 +192,7 @@
   {
     "id": 39,
     "region": "Florida",
-    "available": true
+    "available": false
   },
   {
     "id": 40,
@@ -267,7 +267,7 @@
   {
     "id": 54,
     "region": "Ohio",
-    "available": false
+    "available": true
   },
   {
     "id": 55,
@@ -297,7 +297,7 @@
   {
     "id": 60,
     "region": "Florida",
-    "available": false
+    "available": true
   },
   {
     "id": 61,
@@ -322,7 +322,7 @@
   {
     "id": 65,
     "region": "Texas",
-    "available": true
+    "available": false
   },
   {
     "id": 66,
@@ -337,7 +337,7 @@
   {
     "id": 68,
     "region": "New York",
-    "available": true
+    "available": false
   },
   {
     "id": 69,
@@ -357,12 +357,12 @@
   {
     "id": 72,
     "region": "Georgia",
-    "available": true
+    "available": false
   },
   {
     "id": 73,
     "region": "California",
-    "available": true
+    "available": false
   },
   {
     "id": 74,
@@ -402,7 +402,7 @@
   {
     "id": 81,
     "region": "Texas",
-    "available": true
+    "available": false
   },
   {
     "id": 82,
@@ -412,7 +412,7 @@
   {
     "id": 83,
     "region": "Illinois",
-    "available": false
+    "available": true
   },
   {
     "id": 84,
@@ -457,7 +457,7 @@
   {
     "id": 92,
     "region": "Florida",
-    "available": true
+    "available": false
   },
   {
     "id": 93,
