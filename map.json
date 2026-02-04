@@ -12,7 +12,7 @@
   {
     "id": 3,
     "region": "Ohio",
-    "available": true
+    "available": false
   },
   {
     "id": 4,
@@ -67,7 +67,7 @@
   {
     "id": 14,
     "region": "Texas",
-    "available": true
+    "available": false
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
   {
     "id": 36,
     "region": "Pennsylvania",
-    "available": true
+    "available": false
   },
   {
     "id": 37,
@@ -187,12 +187,12 @@
   {
     "id": 38,
     "region": "Ohio",
-    "available": false
+    "available": true
   },
   {
     "id": 39,
     "region": "Florida",
-    "available": false
+    "available": true
   },
   {
     "id": 40,
@@ -247,7 +247,7 @@
   {
     "id": 50,
     "region": "Florida",
-    "available": false
+    "available": true
   },
   {
     "id": 51,
@@ -272,7 +272,7 @@
   {
     "id": 55,
     "region": "California",
-    "available": false
+    "available": true
   },
   {
     "id": 56,
@@ -282,7 +282,7 @@
   {
     "id": 57,
     "region": "Georgia",
-    "available": false
+    "available": true
   },
   {
     "id": 58,
@@ -292,7 +292,7 @@
   {
     "id": 59,
     "region": "Florida",
-    "available": true
+    "available": false
   },
   {
     "id": 60,
@@ -302,7 +302,7 @@
   {
     "id": 61,
     "region": "Texas",
-    "available": false
+    "available": true
   },
   {
     "id": 62,
@@ -322,7 +322,7 @@
   {
     "id": 65,
     "region": "Texas",
-    "available": true
+    "available": false
   },
   {
     "id": 66,
@@ -402,7 +402,7 @@
   {
     "id": 81,
     "region": "Texas",
-    "available": true
+    "available": false
   },
   {
     "id": 82,
@@ -452,7 +452,7 @@
   {
     "id": 91,
     "region": "Florida",
-    "available": false
+    "available": true
   },
   {
     "id": 92,
@@ -462,7 +462,7 @@
   {
     "id": 93,
     "region": "Florida",
-    "available": true
+    "available": false
   },
   {
     "id": 94,
@@ -482,12 +482,12 @@
   {
     "id": 97,
     "region": "Texas",
-    "available": true
+    "available": false
   },
   {
     "id": 98,
     "region": "Georgia",
-    "available": false
+    "available": true
   },
   {
     "id": 99,
