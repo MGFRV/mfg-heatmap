@@ -7,7 +7,7 @@
   {
     "id": 2,
     "region": "Georgia",
-    "available": false
+    "available": true
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
   {
     "id": 6,
     "region": "California",
-    "available": true
+    "available": false
   },
   {
     "id": 7,
@@ -62,7 +62,7 @@
   {
     "id": 13,
     "region": "Pennsylvania",
-    "available": true
+    "available": false
   },
   {
     "id": 14,
@@ -77,12 +77,12 @@
   {
     "id": 16,
     "region": "Ohio",
-    "available": false
+    "available": true
   },
   {
     "id": 17,
     "region": "Illinois",
-    "available": true
+    "available": false
   },
   {
     "id": 18,
@@ -97,7 +97,7 @@
   {
     "id": 20,
     "region": "Georgia",
-    "available": false
+    "available": true
   },
   {
     "id": 21,
@@ -127,7 +127,7 @@
   {
     "id": 26,
     "region": "Ohio",
-    "available": true
+    "available": false
   },
   {
     "id": 27,
@@ -162,7 +162,7 @@
   {
     "id": 33,
     "region": "Texas",
-    "available": true
+    "available": false
   },
   {
     "id": 34,
@@ -192,7 +192,7 @@
   {
     "id": 39,
     "region": "Florida",
-    "available": true
+    "available": false
   },
   {
     "id": 40,
@@ -257,7 +257,7 @@
   {
     "id": 52,
     "region": "Ohio",
-    "available": true
+    "available": false
   },
   {
     "id": 53,
@@ -282,7 +282,7 @@
   {
     "id": 57,
     "region": "Georgia",
-    "available": true
+    "available": false
   },
   {
     "id": 58,
@@ -317,12 +317,12 @@
   {
     "id": 64,
     "region": "Georgia",
-    "available": true
+    "available": false
   },
   {
     "id": 65,
     "region": "Texas",
-    "available": false
+    "available": true
   },
   {
     "id": 66,
@@ -362,7 +362,7 @@
   {
     "id": 73,
     "region": "California",
-    "available": true
+    "available": false
   },
   {
     "id": 74,
@@ -432,7 +432,7 @@
   {
     "id": 87,
     "region": "Pennsylvania",
-    "available": true
+    "available": false
   },
   {
     "id": 88,
@@ -467,7 +467,7 @@
   {
     "id": 94,
     "region": "New York",
-    "available": true
+    "available": false
   },
   {
     "id": 95,
