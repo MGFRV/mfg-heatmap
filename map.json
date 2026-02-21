@@ -2,7 +2,7 @@
   {
     "id": 1,
     "region": "Ohio",
-    "available": false
+    "available": true
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
   {
     "id": 6,
     "region": "California",
-    "available": false
+    "available": true
   },
   {
     "id": 7,
@@ -82,7 +82,7 @@
   {
     "id": 17,
     "region": "Illinois",
-    "available": true
+    "available": false
   },
   {
     "id": 18,
@@ -122,7 +122,7 @@
   {
     "id": 25,
     "region": "Florida",
-    "available": false
+    "available": true
   },
   {
     "id": 26,
@@ -207,7 +207,7 @@
   {
     "id": 42,
     "region": "Pennsylvania",
-    "available": true
+    "available": false
   },
   {
     "id": 43,
@@ -217,12 +217,12 @@
   {
     "id": 44,
     "region": "Florida",
-    "available": false
+    "available": true
   },
   {
     "id": 45,
     "region": "Georgia",
-    "available": true
+    "available": false
   },
   {
     "id": 46,
@@ -277,7 +277,7 @@
   {
     "id": 56,
     "region": "Florida",
-    "available": false
+    "available": true
   },
   {
     "id": 57,
@@ -292,7 +292,7 @@
   {
     "id": 59,
     "region": "Florida",
-    "available": true
+    "available": false
   },
   {
     "id": 60,
@@ -307,7 +307,7 @@
   {
     "id": 62,
     "region": "Illinois",
-    "available": false
+    "available": true
   },
   {
     "id": 63,
@@ -317,7 +317,7 @@
   {
     "id": 64,
     "region": "Georgia",
-    "available": false
+    "available": true
   },
   {
     "id": 65,
@@ -347,17 +347,17 @@
   {
     "id": 70,
     "region": "Ohio",
-    "available": true
+    "available": false
   },
   {
     "id": 71,
     "region": "Georgia",
-    "available": false
+    "available": true
   },
   {
     "id": 72,
     "region": "Georgia",
-    "available": true
+    "available": false
   },
   {
     "id": 73,
@@ -392,7 +392,7 @@
   {
     "id": 79,
     "region": "Ohio",
-    "available": true
+    "available": false
   },
   {
     "id": 80,
@@ -407,12 +407,12 @@
   {
     "id": 82,
     "region": "Texas",
-    "available": false
+    "available": true
   },
   {
     "id": 83,
     "region": "Illinois",
-    "available": true
+    "available": false
   },
   {
     "id": 84,
@@ -437,7 +437,7 @@
   {
     "id": 88,
     "region": "California",
-    "available": false
+    "available": true
   },
   {
     "id": 89,
@@ -452,7 +452,7 @@
   {
     "id": 91,
     "region": "Florida",
-    "available": false
+    "available": true
   },
   {
     "id": 92,
@@ -497,6 +497,6 @@
   {
     "id": 100,
     "region": "Ohio",
-    "available": true
+    "available": false
   }
 ]
