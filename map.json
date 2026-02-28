@@ -22,7 +22,7 @@
   {
     "id": 5,
     "region": "Ohio",
-    "available": false
+    "available": true
   },
   {
     "id": 6,
@@ -37,12 +37,12 @@
   {
     "id": 8,
     "region": "Texas",
-    "available": true
+    "available": false
   },
   {
     "id": 9,
     "region": "Texas",
-    "available": true
+    "available": false
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
   {
     "id": 26,
     "region": "Ohio",
-    "available": false
+    "available": true
   },
   {
     "id": 27,
@@ -142,7 +142,7 @@
   {
     "id": 29,
     "region": "Pennsylvania",
-    "available": true
+    "available": false
   },
   {
     "id": 30,
@@ -157,7 +157,7 @@
   {
     "id": 32,
     "region": "Georgia",
-    "available": false
+    "available": true
   },
   {
     "id": 33,
@@ -167,12 +167,12 @@
   {
     "id": 34,
     "region": "Texas",
-    "available": false
+    "available": true
   },
   {
     "id": 35,
     "region": "Texas",
-    "available": false
+    "available": true
   },
   {
     "id": 36,
@@ -182,12 +182,12 @@
   {
     "id": 37,
     "region": "Pennsylvania",
-    "available": true
+    "available": false
   },
   {
     "id": 38,
     "region": "Ohio",
-    "available": false
+    "available": true
   },
   {
     "id": 39,
@@ -207,7 +207,7 @@
   {
     "id": 42,
     "region": "Pennsylvania",
-    "available": false
+    "available": true
   },
   {
     "id": 43,
@@ -222,7 +222,7 @@
   {
     "id": 45,
     "region": "Georgia",
-    "available": false
+    "available": true
   },
   {
     "id": 46,
@@ -252,7 +252,7 @@
   {
     "id": 51,
     "region": "Texas",
-    "available": true
+    "available": false
   },
   {
     "id": 52,
@@ -312,7 +312,7 @@
   {
     "id": 63,
     "region": "Florida",
-    "available": true
+    "available": false
   },
   {
     "id": 64,
@@ -322,7 +322,7 @@
   {
     "id": 65,
     "region": "Texas",
-    "available": true
+    "available": false
   },
   {
     "id": 66,
@@ -342,7 +342,7 @@
   {
     "id": 69,
     "region": "New York",
-    "available": true
+    "available": false
   },
   {
     "id": 70,
@@ -357,7 +357,7 @@
   {
     "id": 72,
     "region": "Georgia",
-    "available": true
+    "available": false
   },
   {
     "id": 73,
@@ -367,12 +367,12 @@
   {
     "id": 74,
     "region": "Pennsylvania",
-    "available": false
+    "available": true
   },
   {
     "id": 75,
     "region": "Pennsylvania",
-    "available": false
+    "available": true
   },
   {
     "id": 76,
@@ -382,7 +382,7 @@
   {
     "id": 77,
     "region": "Ohio",
-    "available": true
+    "available": false
   },
   {
     "id": 78,
@@ -392,7 +392,7 @@
   {
     "id": 79,
     "region": "Ohio",
-    "available": true
+    "available": false
   },
   {
     "id": 80,
@@ -402,7 +402,7 @@
   {
     "id": 81,
     "region": "Texas",
-    "available": false
+    "available": true
   },
   {
     "id": 82,
@@ -417,7 +417,7 @@
   {
     "id": 84,
     "region": "New York",
-    "available": true
+    "available": false
   },
   {
     "id": 85,
@@ -437,7 +437,7 @@
   {
     "id": 88,
     "region": "California",
-    "available": false
+    "available": true
   },
   {
     "id": 89,
@@ -447,7 +447,7 @@
   {
     "id": 90,
     "region": "Georgia",
-    "available": false
+    "available": true
   },
   {
     "id": 91,
@@ -477,7 +477,7 @@
   {
     "id": 96,
     "region": "New York",
-    "available": true
+    "available": false
   },
   {
     "id": 97,
